@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Temperature</string>
+    <string name="input1">Enter a Temprature</string>
+    <string name="btn1">Convert Celsuis to Fahrenheit</string>
+    <string name="btn2">Convert Fahrenheit to Celsuis</string>
+
+</resources>
